@@ -1,3 +1,0 @@
-/home/yan/Documents/programmation/minecraft clone/cmake-build-debug/CMakeFiles/MyApp.dir
-/home/yan/Documents/programmation/minecraft clone/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/yan/Documents/programmation/minecraft clone/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/g++ CMakeFiles/MyApp.dir/scr/main.cpp.o CMakeFiles/MyApp.dir/scr/include/quads.cpp.o -o MyApp  /usr/lib/x86_64-linux-gnu/libfreetype.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/x86_64-linux-gnu/libGL.so 
