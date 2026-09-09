@@ -22,5 +22,5 @@ out vec2 texCoords;
 
 void main() {
     gl_Position = proj * view * vec4(getPos(aPos) * 0.5, 1.0);
-    texCoords = TextCoords;
+    texCoords = vec2(0.0);
 }
