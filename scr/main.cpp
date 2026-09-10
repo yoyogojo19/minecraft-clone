@@ -32,7 +32,7 @@ int main() {
     loadFont("../JetBrainsMono-Bold.ttf", 24);
 
     Shader shaderProgram("../shader/vertex.glsl", "../shader/fragment.glsl");
-    Shader shader("../shader/triVert.glsl", "../shader/triFrag.glsl");
+    Shader shader("../shader/triVert.glsl", "../shader/triGeo.glsl", "../shader/triFrag.glsl");
 
     std::vector<quad> vertexData = meshVolume();
 
