@@ -76,6 +76,7 @@ std::vector<quad> meshVolume() {
         }
         greedy_mesh(data, quads, z, 0);
     }
+    return quads;
 }
 
 #endif //GREEDY_MESHING_TERRAIN_H
