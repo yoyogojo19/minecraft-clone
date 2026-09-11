@@ -1,5 +1,9 @@
+#pragma once
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
+#include <iostream>
+#include <GL/glew.h>
+#include <GLFW/glfw3.h>
 
 GLuint loadTexture(const char* path) {
     GLuint textureID;
